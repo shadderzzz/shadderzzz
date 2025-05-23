@@ -1,9 +1,12 @@
 # 🕌 UmmahHub – A Community-Centered Islamic Web Platform
 
+👋 Hi, my name is **Shadman Chowdhury** — I'm a final year BSc Computer Science student at **Goldsmiths, University of London**. This project represents the culmination of my academic journey, combining technical skills with a personal passion for building inclusive, community-driven digital tools.
+
 > 🧠 Final Year Computer Science Project | Goldsmiths, University of London  
 > 💬 Bridging Faith and Technology: Engage. Learn. Support.
 
 ---
+
 
 ## 📌 Overview
 
