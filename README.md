@@ -39,22 +39,6 @@ Whether you're new to Islam, seeking guidance, or simply looking for connection 
 
 ---
 
-## 📸 Screenshots
-
-### 🏠 Home Page
-![Home Page](https://your-link-to-homepage-screenshot.png)
-
-### 💬 Q&A Forum
-![Forum](https://your-link-to-forum-screenshot.png)
-
-### 📍 Prayer Times
-![Prayer Times](https://your-link-to-prayer-times.png)
-
-### 🤖 Chatbot Interface
-![Chatbot](https://your-link-to-chatbot.png)
-
----
-
 ## 📈 Skills Demonstrated
 
 - Full-stack web development (Node.js, Express, MySQL, EJS)
